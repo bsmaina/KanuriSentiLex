@@ -1,0 +1,8 @@
+configuration,accuracy,macro_precision,macro_recall,macro_f1,evaluation_items
+Corpus only,0.995,0.9944,0.9955,0.995,400
+Translation only,0.7075,0.794,0.6414,0.675,400
+Contextual only,0.7125,0.7995,0.6459,0.6798,400
+Corpus + Translation,0.965,0.9733,0.9568,0.9644,400
+Corpus + Contextual,0.965,0.9733,0.9568,0.9644,400
+Translation + Contextual,0.7075,0.794,0.6414,0.675,400
+Corpus + Translation + Contextual,0.965,0.9733,0.9568,0.9644,400

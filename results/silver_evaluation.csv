@@ -1,0 +1,8 @@
+configuration,accuracy,macro_f1,spearman_rho,evaluation_items
+Corpus only,0.8927,0.6955,0.7283,895
+Translation only,0.8324,0.5623,0.6202,895
+Contextual only,0.8324,0.5631,0.6192,895
+Corpus + Translation,0.8905,0.6903,0.7532,895
+Corpus + Contextual,0.8905,0.6903,0.7533,895
+Translation + Contextual,0.8324,0.5623,0.6202,895
+Corpus + Translation + Contextual,0.8905,0.6903,0.7533,895

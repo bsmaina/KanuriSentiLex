@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "Citation metadata for KanuriSentiLex. Release identifiers and publication details will be added when available."
+type: dataset
+title: "KanuriSentiLex: A Polarity-Annotated Lexical Resource for Kanuri"
+authors:
+  - family-names: "Saleh"
+    given-names: "Bashir Maina"
+  - family-names: "Bilgaiyan"
+    given-names: "Saurabh"
+  - family-names: "Sagnika"
+    given-names: "Santwana"
+abstract: >
+  A polarity-annotated inventory of 2,602 Kanuri lexical items developed
+  using corpus-derived, translation-projected, and contextual sentiment
+  signals. A stratified 400-item subset was independently annotated by
+  three native speakers. This repository initially contains documentation;
+  data and original experimental implementation remain to be added.
+keywords:
+  - Kanuri
+  - sentiment lexicon
+  - low-resource languages
+  - cross-lingual NLP
+  - lexical resources

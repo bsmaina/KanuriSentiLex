@@ -1,0 +1,2 @@
+baseline_macro_f1,lexicon_augmented_macro_f1,delta_macro_f1,bootstrap_p,ci95_lower,ci95_upper,evaluation_sentences
+0.6646,0.6504,-0.0142,0.008,-0.0247,-0.004,3594
